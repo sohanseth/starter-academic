@@ -4,8 +4,8 @@
 
 widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 68  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
 title = "Meet the Team"
 subtitle = ""
@@ -13,8 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
+  user_groups = ["Researchers",
                  "Grad Students",
                  "Administration",
                  "Visitors",

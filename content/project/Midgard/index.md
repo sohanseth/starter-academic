@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "4D quantification of micro-scale feedbacks in dehydrating, deforming rocks"
-summary: ""
-authors: []
+title: "Segmentation of Micro-tomography Images for Understanding Deformation of Rocks"
+summary: "Develop segmentation algorithms for very large scale 4D microtomography images without human supervision. The segmented images will inform critical parameters to understand the mechanism of rock deformation."
+authors: ["Florian Fusseis", "Ian Butler", "John Wheeler", "Sohan Seth", "Stephen Elphick"]
 tags: []
 categories: []
-date: 2021-02-07T01:17:41Z
+date: 2022-31-12T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

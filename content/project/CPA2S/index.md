@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Child Poverty and Access to Services in Uganda"
-summary: ""
-authors: []
+summary: "Develop understanding on the causes of childhood poverty. We are focussing on whether children’s physical accessibility to services, such as health facilities or schools contribute to their deprivation."
+authors: ["Gary Watmough", "Sohan Seth"]
 tags: []
 categories: []
-date: 2021-02-07T01:18:27Z
+date: 2020-11-06T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.dataforchildrencollaborative.com/poverty/tag/Poverty"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Machine Learning for Spectroscopy"
-summary: ""
-authors: []
+summary: "Develop machine learning models for analysing fluorescence, Raman, and time-resolved spectroscopy signals in the context of interventional pulmonology, in particular cancer delineation."
+authors: ["Sohan Seth"]
 tags: []
 categories: []
-date: 2021-02-07T19:44:32Z
+date: 2021-15-01T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

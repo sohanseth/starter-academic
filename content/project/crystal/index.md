@@ -2,11 +2,11 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Interpretable Descriptors for Materials Machine Learning"
-summary: ""
-authors: []
+summary: "Develop new concise and informative crystal structure descriptors, focussed on maintaining chemical interpretability and generalisability."
+authors: ["James Cumby", "Sohan Seth"]
 tags: []
 categories: []
-date: 2021-02-07T19:44:21Z
+date: 2020-03-01T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

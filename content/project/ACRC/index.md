@@ -1,12 +1,12 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Advanced Care Research Center"
-summary: ""
-authors: []
+title: "Data-driven Insight and Prediction in Later Life Care"
+summary: "Develop, validate and disseminate a suite of new risk prediction models for a set of adverse outcomes such as mortality, increased care needs or hospitalisation. In the context of population ageing and resource constrained services, risk prediction tools have great potential to ensure the delivery of the right care to the right person in the most cost-effective way."
+authors: ["Bruce Guthrie", "Alan Marshall", "Sohan Seth"]
 tags: []
 categories: []
-date: 2021-02-06T21:20:19Z
+date: 2023-15-12T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
 external_link: "https://www.ed.ac.uk/usher/advanced-care-research-centre"

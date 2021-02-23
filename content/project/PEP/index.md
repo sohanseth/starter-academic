@@ -2,14 +2,14 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Census-Independent Population Density Estimation in Mozambique"
-summary: ""
-authors: []
+summary: "Develop sustainable machine learning models to improve intercensal population estimates in Mozambique. We are using satellite images and microcensus data to estimate population in rural and semi-unban areas independent of census data. "
+authors: ["Sohan Seth", "Gary Watmough"]
 tags: []
 categories: []
-date: 2021-02-07T01:17:32Z
+date: 2021-15-05T00:00:00Z
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.dataforchildrencollaborative.com/population"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Estimating Population Density from Remote Sensing and Microcensus"
-event: "ANC Workshop 2021"
-event_url: "https://web.inf.ed.ac.uk/anc/events/anc-workshop-26-01-2021"
+title: "Retrieval of Experiments by Efficient Comparison of Marginal Likelihoods"
+event: "Large Scale Online Learning and Decision Making Workshop"
+event_url:
 location:
 address:
   street:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "Decisions including access to services, distribution of vaccines, disaster relief, and many others are informed based on the most up to date population estimates for an area, and many Sustainable Development Goals (SDGs) indicators established by the United Nations (UN) depend on the total population count or population count of a specific group. Traditional population data source, i.e., census data, is not adequate for this purpose since censuses are conducted typically decennially. Census-independent population estimation or bottom-up approach estimates population through microcensus and remote sensing. This involves using local population survey data, i.e., microcensus, and remote sensing data, e.g., satellite images, to learn an association between the visual features of an area that are informative of population, e.g., number of buildings, type of land, distance to road etc., and the respective population, and to extrapolate this knowledge across an entire country or region. I will present some challenges and preliminary results of our ongoing work with Data for Children Collaborative and UNICEF in Mozambique."
+abstract: "We study the task of retrieving relevant experiments given a query experiment. By experi- ment, we mean a collection of measurements from a set of ‘covariates’ and the associated ‘out- comes’. While similar experiments can be retrieved by comparing available ‘annotations’, this approach ignores the valuable information available in the measurements themselves. To incor- porate this information in the retrieval task, we suggest employing a retrieval metric that utilizes probabilistic models learned from the measurements. We argue that such a metric is a sensible measure of similarity between two experiments since it permits inclusion of experiment-specific prior knowledge. However, accurate models are often not analytical, and one must resort to storing posterior samples which demands considerable resources. Therefore, we study strate- gies to select informative posterior samples to reduce the computational load while maintaining the retrieval performance. We demonstrate the efficacy of our approach on simulated data with simple linear regression as the models, and real world datasets."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-01-26T11:00:25+01:00
-date_end: 2021-01-26T12:00:25+01:00
+date: 2014-09-11T17:00:10+01:00
+date_end: 2014-09-11T17:30:10+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-26T14:08:25+01:00
+publishDate: 2021-05-10T21:19:10+01:00
 
 authors: []
 tags: []
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: files/anc2021.pdf
+url_pdf: files/lsoldm2014.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["PEP"]
+projects: []
 ---

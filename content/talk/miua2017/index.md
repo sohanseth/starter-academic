@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Archetypal Distribution"
-event: "ANC Workshop 2020"
-event_url: "https://web.inf.ed.ac.uk/anc/events/anc-workshop-21-01-2020"
+title: "Estimating Bacterial Load in FCFM Imaging"
+event: "Medical Image Understanding and Analysis"
+event_url: "https://miua2017.wordpress.com"
 location:
 address:
   street:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "Archetypal analysis is an unsupervised learning tool commonly used in exploratory data analysis dimensionality reduction interpretation and visualization. We extend this idea to find archetypal distributions given a set of probability distributions. This is useful for example when we report the uncertainty in a measurement alongside the measured value. We propose a principled approach to tackle this situation using partial membership model. We discuss the connection between the proposed approach and existing extensions of archetypal analysis namely probabilistic archetypal analysis kernel archetypal analysis interval archetypal analysis and statistical archetypal analysis and apply this approach to both synthetic and real data to investigate its properties and effectiveness."
+abstract: "We address the task of detecting bacteria and estimating bacterial load in the human distal lung with fibered confocal fluorescence microscopy (FCFM) and a targeted smartprobe. Bacteria appear as bright dots in the image when exposed to a smartprobe, but they are often difficult to detect due to the presence of background autofluorescence inherent to human lungs. In this study, we create a database of annotated image frames where a clinician has labelled bacteria, and use this database for supervised learning to build a suitable bacterial load estimation software."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2020-01-21T11:00:46+01:00
-date_end: 2020-01-21T12:00:46+01:00
+date: 2017-07-13T13:30:31+01:00
+date_end: 2017-07-13T14:30:31+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-04-30T14:26:46+01:00
+publishDate: 2021-05-10T21:28:31+01:00
 
 authors: []
 tags: []
@@ -48,8 +48,8 @@ image:
 # Optional filename of your slides within your talk's folder or a URL.
 url_slides:
 
-url_code:
-url_pdf: files/anc2020.pdf
+url_code: https://github.com/sohanseth/bactload
+url_pdf: files/miua2017.pdf
 url_video:
 
 # Markdown Slides (optional).

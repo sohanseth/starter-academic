@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Estimating Population Density from Remote Sensing and Microcensus"
-event: "ANC Workshop 2021"
-event_url: "https://web.inf.ed.ac.uk/anc/events/anc-workshop-26-01-2021"
+title: "Differential Analysis of Whole-genome Shotgun Sequences"
+event: "Machine Learning for Systems Biology"
+event_url: "http://mlsb.cc/2014/program.html"
 location:
 address:
   street:
@@ -12,16 +12,16 @@ address:
   postcode:
   country:
 summary:
-abstract: "Decisions including access to services, distribution of vaccines, disaster relief, and many others are informed based on the most up to date population estimates for an area, and many Sustainable Development Goals (SDGs) indicators established by the United Nations (UN) depend on the total population count or population count of a specific group. Traditional population data source, i.e., census data, is not adequate for this purpose since censuses are conducted typically decennially. Census-independent population estimation or bottom-up approach estimates population through microcensus and remote sensing. This involves using local population survey data, i.e., microcensus, and remote sensing data, e.g., satellite images, to learn an association between the visual features of an area that are informative of population, e.g., number of buildings, type of land, distance to road etc., and the respective population, and to extrapolate this knowledge across an entire country or region. I will present some challenges and preliminary results of our ongoing work with Data for Children Collaborative and UNICEF in Mozambique."
+abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-01-26T11:00:25+01:00
-date_end: 2021-01-26T12:00:25+01:00
+date: 2014-09-06T16:30:15+01:00
+date_end: 2014-09-06T18:00:15+01:00
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-01-26T14:08:25+01:00
+publishDate: 2021-05-10T21:08:15+01:00
 
 authors: []
 tags: []
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf: files/anc2021.pdf
+url_pdf: files/mlsb2014.pdf
 url_video:
 
 # Markdown Slides (optional).
@@ -64,5 +64,5 @@ slides: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: ["PEP"]
+projects: []
 ---

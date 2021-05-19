@@ -3,7 +3,7 @@
 
 title: "Atomic Insights From a Grain of Salt"
 event: "Data to Discovery Seminar Series"
-event_url:
+event_url: "http://www.chem.ed.ac.uk/staff/academic-staff/dr-james-cumby"
 location:
 address:
   street:

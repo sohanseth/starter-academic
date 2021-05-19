@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code: https://github.com/sohanseth/mcls
-url_pdf: files/cmi2018.pdf
+url_pdf: files/miua2017.pdf #files/cmi2018.pdf
 url_video:
 
 # Markdown Slides (optional).

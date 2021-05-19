@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code:
-url_pdf:
+url_pdf: files/lsoldf2014.pdf
 url_video:
 
 # Markdown Slides (optional).

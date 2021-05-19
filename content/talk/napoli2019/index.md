@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Model criticism in latent space"
+title: "Model Criticism in Latent Space"
 event: " Università Degli Studi Di Napoli Federico II Statistics Seminars"
 event_url: "http://domenicovistocco.it/appo/statistics_seminars_september_2019.pdf"
 location:
@@ -49,7 +49,7 @@ image:
 url_slides:
 
 url_code: https://github.com/sohanseth/mcls
-url_pdf: napoli2019
+url_pdf: files/napoli2019.pdf
 url_video:
 
 # Markdown Slides (optional).

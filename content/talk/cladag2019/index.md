@@ -54,7 +54,7 @@ image:
 url_slides:
 
 url_code: https://aalab.github.io
-url_pdf: files/cladag2019
+url_pdf: files/cladag2019.pdf
 url_video:
 
 # Markdown Slides (optional).

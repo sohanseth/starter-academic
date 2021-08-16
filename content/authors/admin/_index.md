@@ -60,17 +60,19 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Senior Data Scientist at the School of Informatics, University of Edinburgh.  My research interests include data science for science, health, people and environment. I organize the <a href='https://outlook.office365.com/owa/calendar/DataScienceClinic@uoe.onmicrosoft.com/bookings/'>Data Science Clinic</a>, and Data to Discovery seminar series. 
+I am a Senior Data Scientist at the School of Informatics, University of Edinburgh.  I lead the Data Science Unit. My research interests include data science for science, health, people and environment. I organize the <a href='https://outlook.office365.com/owa/calendar/DataScienceClinic@uoe.onmicrosoft.com/bookings/'>Data Science Clinic</a>, and Data to Discovery seminar series. 
 
 **Affiliations**:
 - <a href='https://www.ed.ac.uk/usher/advanced-care-research-centre'>Advanced Care Research Centre</a>
 - <a href='https://www.dataforchildrencollaborative.com'>Data for Children Collaborative with UNICEF</a>
 - <a href='http://www.cumby.chem.ed.ac.uk'>Functional Materials Group</a>
-- <a href='https://nera-gbh.org'>NERA - A Nexus for Global Health Research in Africa</a>
 - <a href='https://icuheart.org'>ICU-HEART</a>
 - <a href='https://www.ed.ac.uk/healthcare-technology-accelerator'>Translational Healthcare Technologies</a>
 
 **News**:
+- 11.08.2021: PDRA position available in <a href='https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1825/?utm_medium=jobshare'>Unsupervised and Explainable Clustering</a>
+- 23.07.2021: <a href='https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1659/?utm_medium=jobshare'>Data Scientist</a>
+position available at the Data Science Unit
 - 25.03.2021: <a href='https://arxiv.org/abs/2104.12696'>Paper</a> accepted at <a href='https://aiforpublichealth.github.io'>AI4PH at ICLR'21</a> workshop
 - 22.03.2021: <a href='https://www.dataforchildrencollaborative.com/population'>Population Estimation Project</a> in <a href='https://www.scotlandaistrategy.com/case-studies-data-for-children-collaborative'>Scotland's AI Strategy</a>
 - 05.03.2021: <a href='https://www.ed.ac.uk/news/staff/2020/principal-s-medal-winners-2020'>Principal's Medal</a> as part of <a href='https://www.ed.ac.uk/inflammation-research/stopcovid/the-qch-network'>StopCovid Team</a>

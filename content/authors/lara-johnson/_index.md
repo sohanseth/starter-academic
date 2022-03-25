@@ -1,40 +1,41 @@
 ---
 # Display name
-title: "Alex Adams"
+title: Lara Johnson
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "alex-adams"
+- ""
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Precision Medicine PhD Student
+role: ACRC Phd Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "https://www.ed.ac.uk/profile/alex-adams"
+- name: Advanced Care Research Center
  
 # Short bio (displayed in user profile at end of posts)
-bio: Alex is a PhD student on the MRC Precision Medicine CDT Programme at the University of Edinburgh. Her research involves applying data science techniques, analysing spectroscopy data, stratifying benign and malignant lung cancer.
+bio: Lara is a PhD Student at the Advanced Care Research Centre (ACRC) Academy working on the project "What does data tell us about our frailty?". Her research involves using statistical machine learning techniques on longitudinal survey and clinical data to investigate measures of frailty in ageing populations.
  
  
 # List each interest with a dash
 interests:
+- Statistics
 - Machine Learning
-- Precision Medicine
+- Ageing
 - Healthcare Technologies
- 
+
 education:
   courses:
-  - course: MRes Cellular and Molecular Biology
-    institution: The University of Birmingham
-    year: 2019
-  - course: Bsc Bioscience and Business Management
-    institution: The University of Birmingham
-    year: 2018
+  - course: MSc in Psychology of Individual Differences
+    institution: The University of Edinburgh
+    year: 2020
+  - course: BA in Classics and English
+    institution: University of Oxford
+    year: 2010
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -43,16 +44,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:a.c.adams-1@sms.ed.ac.uk.
-- icon: twitter
+  link: mailto:s1989190@ed.ac.uk
+- icon: linkedin
   icon_pack: fab
-  link: alex_adams11
-- icon: google-scholar
-  icon_pack: ai
-  link: https://ashpublications.org/blood/article/134/Supplement_1/2684/423297/Human-and-Pathogen-Derived-Ndpks-Act-As-Novel
+  link: https://www.linkedin.com/in/lara-johnson-data-analyst/
 - icon: github
   icon_pack: fab
-  link: https://github.com/AlexChAdams
+  link: https://github.com/LaraKJ
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,5 +69,4 @@ user_groups:
 - Grad Students
 ---
 
-Alex is a PhD student on the MRC Precision Medicine CDT Programme at the University of Edinburgh. Her research involves applying data science techniques, analysing spectroscopy data, stratifying benign and malignant lung cancer.
 

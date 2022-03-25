@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Senior Data Scientist at the School of Informatics, University of Edinburgh.  
+bio: Lead Data Scientist (Senior Research Fellow equivalent) at the School of Informatics, University of Edinburgh.  
 
 # interests:
 # - AI for Science
@@ -60,19 +60,40 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Senior Data Scientist at the School of Informatics, University of Edinburgh.  I lead the Data Science Unit. My research interests include data science for science, health, people and environment. I organize the <a href='https://outlook.office365.com/owa/calendar/DataScienceClinic@uoe.onmicrosoft.com/bookings/'>Data Science Clinic</a>, and Data to Discovery seminar series. 
+I am the Lead Data Scientist (Senior Research Fellow equivalent) at the School of Informatics, University of Edinburgh.  I lead the Data Science Unit for Science, Health, People and Environment (SHaPE). 
 
 **Affiliations**:
-- <a href='https://www.ed.ac.uk/usher/advanced-care-research-centre'>Advanced Care Research Centre</a>
+- <a href='https://www.ed.ac.uk/usher/advanced-care-research-centre'>Advanced Care Research Centre (ACRC)</a>
 - <a href='https://www.dataforchildrencollaborative.com'>Data for Children Collaborative with UNICEF</a>
 - <a href='http://www.cumby.chem.ed.ac.uk'>Functional Materials Group</a>
 - <a href='https://icuheart.org'>ICU-HEART</a>
-- <a href='https://www.ed.ac.uk/healthcare-technology-accelerator'>Translational Healthcare Technologies</a>
+- <a href='https://www.ed.ac.uk/inflammation-research/people/principal-investigators/professor-manu-shankar-hari'>Shankar-Hari Group</a>
+- <a href='https://newreal.cc'>The New Real</a>
+- <a href='https://www.tht.ac.uk'>Translational Healthcare Technologies</a>
 
 **News**:
-- 11.08.2021: PDRA position available in <a href='https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1825/?utm_medium=jobshare'>Unsupervised and Explainable Clustering</a>
-- 23.07.2021: <a href='https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1659/?utm_medium=jobshare'>Data Scientist</a>
-position available at the Data Science Unit
+- 14.03.2022: Abbas Rizvi joins as PhD Student
+- 07.03.2022: Anirban Chakraborty joins as PDRA 
+- 03.03.2022: Paper accepted at <a href='https://doi.org/10.1038/s41598-022-08935-1'>Scientific Reports</a>
+- 01.03.2022: Paper accepted at Journal of Separation Science
+- 28.02.2022: Karthik Mohan joins as Data Scientist
+- 28.02.2022: Abstract accepted at EGU'22
+- 28.02.2022: Paper accepted at Scientific Data
+- 14.02.2022: Paper accepted at Scientific Reports
+- 14.12.2021: Sam Fielding starts as a PhD student
+- 13.12.2021: PDRA position available in <a href='https://elxw.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/2843/?keyword=2843'>bioinformatics in critical care</a>
+- 26.11.2021: ~~PhD position available in <a href='https://www.findaphd.com/phds/project/precision-medicine-dtp-patient-stratification-using-explainable-clustering/?p138216'>machine learning in critical care</a>~~
+- 22.11.2021: Daga Panas joins as a Data Scientist
+- 12.10.2021: PhD position available in <a href='https://www.findaphd.com/phds/?Keywords=multimorbidity+machine%20learning'>predictive models in unscheduled care</a>
+- 12.10.2021: PhD position available in <a href='https://www.findaphd.com/phds/project/understanding-and-clustering-trajectories-of-multimorbidity-using-interpretable-machine-learning/?p135105'>longitudinal clustering in multimorbidity</a>
+- 24.09.2021: <a href='https://loop.frontiersin.org/people/679602/editorial'>Associate Editor</a> for <a href='https://www.frontiersin.org/journals/artificial-intelligence/sections/medicine-and-public-health'>Frontiers in AI: Medicine and Public Health</a>
+- 02.09.2021: Lara Johnson starts as PhD student in ACRC
+- 17.08.2021: Abstract accepted at ICUr'21
+- 11.08.2021: ~~PDRA position available in Unsupervised & Explainable Learning~~
+- 05.08.2021: Nikos Avramidis starts as PhD student
+- 23.07.2021: ~~Data Scientist position available at the Data Science Unit~~
+- 17.08.2021: <a href='https://www.google.com/search?client=safari&rls=en&q=BMJ+swann&ie=UTF-8&oe=UTF-8'>Paper</a> accepted at BMJ
+- 20.05.2021: Nick Homer starts as PhD student
 - 25.03.2021: <a href='https://arxiv.org/abs/2104.12696'>Paper</a> accepted at <a href='https://aiforpublichealth.github.io'>AI4PH at ICLR'21</a> workshop
 - 22.03.2021: <a href='https://www.dataforchildrencollaborative.com/population'>Population Estimation Project</a> in <a href='https://www.scotlandaistrategy.com/case-studies-data-for-children-collaborative'>Scotland's AI Strategy</a>
 - 05.03.2021: <a href='https://www.ed.ac.uk/news/staff/2020/principal-s-medal-winners-2020'>Principal's Medal</a> as part of <a href='https://www.ed.ac.uk/inflammation-research/stopcovid/the-qch-network'>StopCovid Team</a>
@@ -80,7 +101,7 @@ position available at the Data Science Unit
 - 14.09.2020: ~~PDRA position available at Informatics~~
 - 14.09.2020: Isaac Neal starts as RA
 - 14.09.2020: Nia Jenkins starts as RA
-- 07.09.2020: Alexandra Adams starts PhD in Precision Medicine
+- 07.09.2020: Alex Adams starts PhD in Precision Medicine
 - 17.08.2020: Paper accepted at The BMJ
 - 29.07.2020: ~~PDRA position available in GeoSciences~~
 - 15.07.2020: ~~PDRA position available in Chemistry~~

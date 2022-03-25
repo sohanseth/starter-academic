@@ -1,58 +1,49 @@
 ---
 # Display name
-title: "Alex Adams"
+title: "Abbas Rizvi"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "alex-adams"
+- "abbas-rizvi"
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Precision Medicine PhD Student
+role: PhD Student (with <a href='https://www.eng.ed.ac.uk/about/people/prof-pankaj-pankaj'>Pankaj Pankaj</a>)
 
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "https://www.ed.ac.uk/profile/alex-adams"
- 
+
 # Short bio (displayed in user profile at end of posts)
-bio: Alex is a PhD student on the MRC Precision Medicine CDT Programme at the University of Edinburgh. Her research involves applying data science techniques, analysing spectroscopy data, stratifying benign and malignant lung cancer.
- 
- 
+bio: 
+
 # List each interest with a dash
 interests:
+- Failure Prediction
 - Machine Learning
-- Precision Medicine
 - Healthcare Technologies
- 
+
+
+
 education:
   courses:
-  - course: MRes Cellular and Molecular Biology
-    institution: The University of Birmingham
-    year: 2019
-  - course: Bsc Bioscience and Business Management
-    institution: The University of Birmingham
-    year: 2018
- 
+  - course: MSc Mechanical Engineering
+    institution: RWTH Aachen University
+    year: 2015
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: mailto:a.c.adams-1@sms.ed.ac.uk.
-- icon: twitter
-  icon_pack: fab
-  link: alex_adams11
-- icon: google-scholar
-  icon_pack: ai
-  link: https://ashpublications.org/blood/article/134/Supplement_1/2684/423297/Human-and-Pathogen-Derived-Ndpks-Act-As-Novel
-- icon: github
-  icon_pack: fab
-  link: https://github.com/AlexChAdams
+#- icon: envelope
+#  icon_pack:
+#  link: "mailto:s1725621@ed.ac.uk"  # For a direct email link, use "mailto:test@example.org".
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/spiralwidget
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +61,3 @@ highlight_name: false
 user_groups:
 - Grad Students
 ---
-
-Alex is a PhD student on the MRC Precision Medicine CDT Programme at the University of Edinburgh. Her research involves applying data science techniques, analysing spectroscopy data, stratifying benign and malignant lung cancer.
-

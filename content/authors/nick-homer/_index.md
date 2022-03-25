@@ -1,40 +1,45 @@
 ---
 # Display name
-title: "Alex Adams"
+title: "Nick Homer"
 
 # Username (this should match the folder name and the name on publications)
 authors:
-- "alex-adams"
+- ""
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position (e.g., Professor of Artificial Intelligence)
-role: Precision Medicine PhD Student
+role: SENSE PhD Student (with <a href='https://blogs.ed.ac.uk/rbingham/'>Robert Bingham</a>)
 
 # Organizations/Affiliations
 organizations:
 - name: University of Edinburgh
-  url: "https://www.ed.ac.uk/profile/alex-adams"
- 
+  url: "https://blogs.ed.ac.uk/nick_homer/"
+- name: SENSE Centre for Doctoral Training
+  url: "https://eo-cdt.org/people/students-and-academics/"
+- name: The Turing Institute 
+  url: "https://www.turing.ac.uk/people/enrichment-students/nick-homer"
+- name: SAGES
+  url: "https://www.sages.ac.uk/people/nick-homer/"
+
 # Short bio (displayed in user profile at end of posts)
-bio: Alex is a PhD student on the MRC Precision Medicine CDT Programme at the University of Edinburgh. Her research involves applying data science techniques, analysing spectroscopy data, stratifying benign and malignant lung cancer.
- 
- 
+bio: Nick is a PhD student on the SENSE Earth Observation CDT programme at the University of Edinburgh. His research focusses on using remote sensing datasets with image processing and machine learning techniques, to better understand changes to the global cryosphere (snow and ice) in response to climate change. 
+
 # List each interest with a dash
 interests:
-- Machine Learning
-- Precision Medicine
-- Healthcare Technologies
- 
+- Remote Sensing
+- Computer Vision 
+- Climate Science
+
 education:
   courses:
-  - course: MRes Cellular and Molecular Biology
-    institution: The University of Birmingham
-    year: 2019
-  - course: Bsc Bioscience and Business Management
-    institution: The University of Birmingham
-    year: 2018
+  - course: MPhil
+    institution: University of Cambridge
+    year: 2020
+  - course: BSc
+    institution: University of Edinburgh
+    year: 2016
  
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/page-builder/#icons
@@ -43,16 +48,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:a.c.adams-1@sms.ed.ac.uk.
-- icon: twitter
-  icon_pack: fab
-  link: alex_adams11
-- icon: google-scholar
-  icon_pack: ai
-  link: https://ashpublications.org/blood/article/134/Supplement_1/2684/423297/Human-and-Pathogen-Derived-Ndpks-Act-As-Novel
-- icon: github
-  icon_pack: fab
-  link: https://github.com/AlexChAdams
+  link: mailto:Nick.Homer@ed.ac.uk
+#- icon: twitter
+#  icon_pack: fab
+#  link:
+#- icon: google-scholar
+#  icon_pack: ai
+#  link: 
+#- icon: github
+#  icon_pack: fab
+#  link:
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -71,5 +77,4 @@ user_groups:
 - Grad Students
 ---
 
-Alex is a PhD student on the MRC Precision Medicine CDT Programme at the University of Edinburgh. Her research involves applying data science techniques, analysing spectroscopy data, stratifying benign and malignant lung cancer.
 
